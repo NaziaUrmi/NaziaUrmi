@@ -21,7 +21,7 @@ As a data analyst with a detective's zeal for solving mysteries hidden within da
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NaziaUrmi&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NaziaUrmi&theme=swift&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NaziaUrmi&theme=swift&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaUrmi&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
