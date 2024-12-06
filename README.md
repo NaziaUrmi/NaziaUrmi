@@ -1,4 +1,5 @@
-About me:
+<img align="center" alt="coding" width="800" height="400" src="https://unsplash.com/photos/turned-on-flat-screen-television-5Xwaj9gaR0g">
+## About me:
 As a data analyst with a detective's zeal for solving mysteries hidden within datasets, I thrive on uncovering trends and patterns that elude others. My passion for data analysis is more than just a profession; it's a pursuit of uncovering truths that inform strategic decisions and drive business success. This enthusiasm for discovery guides my every project, whether it involves simple data aggregation or complex predictive modeling.
 
 - 🔭 I’m working part-time at Siemens Healthineers as a Data Analyst & doing my Masters Thesis at Fraunhofer-Institute (IGCV).
