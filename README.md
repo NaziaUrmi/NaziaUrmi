@@ -1,7 +1,7 @@
  <!-- welcome message -->
  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-  
- <h3>Glad to see you here !! I am Nazia Parvin Urmi</h3>  
+
+ ![Header](./pic1.png)
 
 ## About me:
 As a data analyst with a detective's zeal for solving mysteries hidden within datasets, I thrive on uncovering trends and patterns that elude others. My passion for data analysis is more than just a profession; it's a pursuit of uncovering truths that inform strategic decisions and drive business success. This enthusiasm for discovery guides my every project, whether it involves simple data aggregation or complex predictive modeling.
