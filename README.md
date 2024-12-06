@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="800" height="400" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<img align="center" alt="coding" width="900" height="400" src="https://images.unsplash.com/photo-1503437313881-503a91226402?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 ## About me:
 As a data analyst with a detective's zeal for solving mysteries hidden within datasets, I thrive on uncovering trends and patterns that elude others. My passion for data analysis is more than just a profession; it's a pursuit of uncovering truths that inform strategic decisions and drive business success. This enthusiasm for discovery guides my every project, whether it involves simple data aggregation or complex predictive modeling.
@@ -7,7 +7,7 @@ As a data analyst with a detective's zeal for solving mysteries hidden within da
 - 🌱 I’m currently studying at <a href="https://www.fau.de/" target="blank">FAU</a> Erlangen an MSc in Artificial Intelligence (AI).
 - 💬 Ask me about  Data, Database, Data Analysis, Data Science, Data Visualization, Machine Learning, and Artificial Intelligence. 
 - 📫 How to reach me: naziaurmi22@gmail.com
-- Expertise: Data Visualization, Data Validation, Data Modeling, ETL, MySQL, Neo4j, Microsoft SQL Server, Snowflake, SQL Query, Excel
+- # Expertise: Data Visualization, Data Validation, Data Modeling, ETL, MySQL, Neo4j, Microsoft SQL Server, Snowflake, SQL Query, Excel
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazia-urmi/) 
