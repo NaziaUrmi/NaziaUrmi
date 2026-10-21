@@ -1,16 +1,15 @@
+
 <!-- welcome message -->
 <h2>Hi there, I'm Nazia Parvin Urmi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-![Header](./pic1.png)
-
 ## 👩‍💻 About Me:
-Data & AI Engineer and recently graduated Master of AI student from FAU Erlangen-Nürnberg, with over 3 years of hands-on experience in data engineering, analytics, and intelligent systems. I specialize in Knowledge Graphs (Neo4j), LLMs (GraphRAG), and modern data warehousing (Snowflake, SQL, ETL). I love bridging the gap between robust data infrastructure and intuitive, actionable business insights.
+Data & AI Engineer and MSc in Artificial Intelligence graduate from FAU Erlangen-Nürnberg. With over 3 years of hands-on experience across pharmaceutical analytics and medical technology, I specialize in architecting scalable data pipelines, dimensional modeling in modern cloud warehouses (Snowflake, SQL), and building LLM-driven knowledge systems (GraphRAG, Neo4j). I focus on turning complex, siloed data into fast, reliable structures that power strategic business decisions.
 
 - 🎓 Graduated with an **MSc in Artificial Intelligence** from [FAU Erlangen-Nürnberg](https://www.fau.de/).
-- 🔬 Completed Master's Thesis with **Fraunhofer IGCV & FAU**: Engineered a GraphRAG pipeline and Streamlit chatbot for automated Knowledge Graph query generation using LLMs.
-- 💼 Industry track record delivering data solutions at **Siemens Healthineers** and within pharmaceutical analytics at **Streams Tech Ltd**.
-- 💬 Ask me about: **Knowledge Graphs, GraphRAG, LLMs, Snowflake, SQL Optimization, ETL Pipelines, and Data Modeling**.
-- 📫 How to reach me: [naziaurmi22@gmail.com](mailto:naziaurmi22@gmail.com)
+- 🔬 Completed Master's Thesis with **Fraunhofer IGCV & FAU**: Designed and deployed an end-to-end GraphRAG pipeline and interactive Streamlit interface for automated Knowledge Graph query generation using LLMs.
+- 💼 Over 3 years of industry experience delivering data-driven solutions at **Siemens Healthineers** and within pharmaceutical analytics at **Streams Tech Ltd**.
+- 💬 Core competencies: **Data Modeling, Snowflake, SQL Optimization, ETL/ELT Pipelines, Knowledge Graphs (Neo4j), GraphRAG, and LLMs**.
+- 📫 Reach me at: [naziaurmi22@gmail.com](mailto:naziaurmi22@gmail.com)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazia-urmi/)
@@ -48,24 +47,3 @@ Data & AI Engineer and recently graduated Master of AI student from FAU Erlangen
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaziaUrmi&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="Nazia's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaziaUrmi&theme=swift&hide_border=false" alt="Nazia's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaUrmi&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=NaziaUrmi&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NaziaUrmi&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
